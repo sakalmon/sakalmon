@@ -10,3 +10,6 @@ A 2 player tic-tac-toe game. Try it out [**here.**](https://sakalmon.github.io/t
 * Angular
 ### Fun fact :zap:
 Javascript was written in 10 days!
+### Find me on :point_down:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sakal-mon)
+
