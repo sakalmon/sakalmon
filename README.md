@@ -9,6 +9,7 @@ My background is in electronics but ever since I got a taste of software program
 * :cocktail: [bartender](https://bartender.fly.dev/) - A full-stack application that allows users to search for cocktail recipes as well as post their own.
 * :dagger: [sprite-knight](https://github.com/sakalmon/sprite-knight) - A group collaboration project. A Single Page Application RPG game with a pixelated theme. Fight, explore and level up!
 ### What I'm currently learning :books:
+* Java
 * TypesScript
 ### Fun fact :zap:
 Javascript was written in 10 days!
